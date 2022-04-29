@@ -34,6 +34,7 @@ Apagar marca
 ```bash
 DELETE: http://127.0.0.1:8000/api/brands/1
 ```
+
 ### Eletrodomésticos
 Listar eletrodomésticos
 ```bash
@@ -63,7 +64,7 @@ PUT: http://127.0.0.1:8000/api/products/1
 ```
 Apagar products
 ```bash
-DELETE: http://127.0.0.1:8000/api/brands/1
+DELETE: http://127.0.0.1:8000/api/products/1
 ```
 
 ## Test
